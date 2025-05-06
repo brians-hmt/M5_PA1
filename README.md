@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 # Will the customer accept the coupon
 
 ### Problem Statement
