@@ -1,6 +1,6 @@
 # Will the customer accept the coupon
 
-### Problem Statemewnt
+### Problem Statement
 
 Ultimately, I would like to increase business for my client who has a mid-priced ($20 - $50 / person) restaurant.  I am proposing to my client that we distribute coupons in order to increase their business.  In order to do so, I would like to determine the best way to distribute coupons for mid-priced restaurants in general. 
 
