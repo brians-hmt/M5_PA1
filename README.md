@@ -193,4 +193,3 @@ We could then use some logic to balance the number of offers and the acceptance 
 
 It is also worth noting that the coupon distribution histogram indicates that the restaurant coupons were the least offered of all coupons.  This could indicate that this relatively small sample is not a good representation of the population as a whole.  We may want to get some more data.
 
->>>>>>> Stashed changes
